@@ -1,0 +1,43 @@
+body{
+    background-color:aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#contenedor{
+    width:   95%;
+    height: auto;
+    margin: auto;
+    padding: 8px;
+    background-color: white;
+}
+header{
+    width: 100%;
+}
+
+#contenedor-fluid{
+    
+    width:   90%;
+    height: auto;
+    margin: auto;
+    padding: 5px;
+    background-color: aquamarine;
+}
+section{
+    width: 100%;
+    height: auto;
+    padding: 5%;
+    display: inline-block;
+}
+section{
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    text-align: justify;
+}
+table{
+    margin-left: 10%;
+    text-align: center;
+}
+h1{
+    text-align:center; 
+}
